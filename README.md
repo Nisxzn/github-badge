@@ -2,7 +2,7 @@
 This is a GitHub-Badge SVG graphic which shows the number of repository of a user.
 The counter gets automatically updated by a [GitHub CI workflow](https://resources.github.com/ci-cd/).
 
-![github-repo-count](https://raw.githubusercontent.com/saran-k-07/github-badge/master/github-repo-count.svg)
+![github-repo-count](https://raw.githubusercontent.com/nisxzn/github-badge/master/github-repo-count.svg)
 
 ## 📖 How it works
 This `update-badge-script.js` [Node.js](https://nodejs.org/en/) script reads 
@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/$userName$/github-badge/master/github-repo-cou
 ## 🛠 Config
 The script can be configured to generate a badge for any user:
 * `userName`: Your username on GitHub.  
-   Example url: https://github.com/saran-k-07  
-   `userName` = `saran-k-07`
+   Example url: https://github.com/nisxzn 
+   `userName` = `nisxzn`
